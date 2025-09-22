@@ -48,7 +48,7 @@ After training and evaluation, the models showed varied performance. The Random 
 ### Performance Summary
 The table below summarizes the performance of the models on the test set:
 
-
+![image](https://github.com/debby123p/Classification-of-Proteins-into-Families/blob/main/Models%20(1).png)
 
 ### General Observations
 
